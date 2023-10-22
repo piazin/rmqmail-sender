@@ -1,4 +1,4 @@
-export class CreateEmailQueueDto {
+export class EmailQueuePayloadDto {
     client: {
         name: string;
         email: string;
